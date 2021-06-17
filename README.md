@@ -1,6 +1,6 @@
 #RDP 👾 
 
-#### Works 6 hours
+#### Works for 6 hours
 
 
 #### ⚠ Do not edit files to keep working without errors
