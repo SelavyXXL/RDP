@@ -17,6 +17,5 @@ tasklist | find /i "ngrok.exe" >Nul && curl -s localhost:4040/api/tunnels | jq -
 echo Username: administrator
 echo Password: @LolzTeam21
 echo .
-echo  RDP By Akatsuki
 echo   Connect to Your RDP !
 ping -n 10 127.0.0.1 >nul
